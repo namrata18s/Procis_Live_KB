@@ -14,13 +14,13 @@ We propose and demonstrate a new module that integrates a live Wikipedia search 
 
 # Objectives
 
--Replace ProCIS’s static Wikipedia corpus with a dynamic live knowledge source.
+- Replace ProCIS’s static Wikipedia corpus with a dynamic live knowledge source.
 
--Retrieve top-k relevant documents using Wikipedia's public API.
+- Retrieve top-k relevant documents using Wikipedia's public API.
 
--Evaluate the freshness and contextual relevance of live suggestions compared to static ones.
+- Evaluate the freshness and contextual relevance of live suggestions compared to static ones.
 
--Highlight improvements through empirical experiments.
+- Highlight improvements through empirical experiments.
 
 # System Architecture
 
@@ -72,13 +72,13 @@ Live retrieval consistently showed gains in freshness and relevance, particularl
 
 # Future Directions
 
-Combine static and live sources via hybrid re-ranking.
+- Combine static and live sources via hybrid re-ranking.
 
-Leverage LLMs to rerank retrieved results.
+- Leverage LLMs to rerank retrieved results.
 
-Simulate real-time user feedback to improve proactive triggering.
+- Simulate real-time user feedback to improve proactive triggering.
 
-Extend framework to domains like healthcare, education, finance.
+- Extend framework to domains like healthcare, education, finance.
 
 # Running the Project
 
